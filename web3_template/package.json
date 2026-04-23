@@ -18,7 +18,7 @@
     "ethers": "^4.0.44",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "uuid": "^3.4.0"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.19.2",
